@@ -1,0 +1,6 @@
+BEGIN TRANSACTION;
+CREATE TABLE users(id INTEGER PRIMARY KEY, username text, email text, phoneNumber text, URL text, register day text);
+INSERT INTO "users" VALUES(1,'Kang junmo','nebi25@naver.com','010-8479-3370','https://blog.naver.com/nebi25','2019 - 27 - 23 / Jul 07');
+INSERT INTO "users" VALUES(2,'Park jun jum','nebi25@naver.com','010-1234-1245','https://blog.naver.com/nebi25','2019-07-23 01:28:37.019960');
+INSERT INTO "users" VALUES(3,'doraemong','apdh1709@gmail.com','01084793370','htttps://naver.com','2019-07-23 12:26:32.825037');
+COMMIT;

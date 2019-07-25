@@ -1,0 +1,1 @@
+{'name': 'kangjunmo', 'studentNumber': 2013161003, 'college': 'koreatech', 'bloodtype': 'A', 'age': 26}
