@@ -1,7 +1,6 @@
 # Section02-1
 # 파이썬 기초 코딩
 # Print 구문의 이해
-# 참조 : https://www.python-course.eu/python3_formatted_output.php
 
 """
 참고 : Escape 코드

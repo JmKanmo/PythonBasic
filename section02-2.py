@@ -1,6 +1,5 @@
 # Section02-2
 # 파이썬 기초 코딩
-# 몸풀기 코딩 실습
 
 import this
 import sys
