@@ -1,2 +1,2 @@
 # PythonBasic
- Study and Project
+ Basic study files
